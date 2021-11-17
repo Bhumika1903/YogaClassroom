@@ -51,7 +51,6 @@ Run the django web server.
 ```bash
 python manage.py runserver
 ```
-### OPTIONAL
 
 ## [Install Node.js](https://nodejs.org/en/)
 
