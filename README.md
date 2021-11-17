@@ -7,7 +7,7 @@ So just directly run `python manage.py runserver` after installing neccesary mod
 
 ## All the neccesary validations is happening in the backend of the application i.e `./YogaForm`.
 
-## Entity Relationship Diagram For YogaClasses
+## Entity-Relationship Diagram For YogaClasses
 ![E-R UCL](https://user-images.githubusercontent.com/41137189/142236305-6f978ae1-c0ca-49d4-8568-bcf8b1570de6.jpg)
 
 # Try It
