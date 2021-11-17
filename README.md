@@ -2,6 +2,9 @@
 
 A Django React Application 
 
+# This application is made in such a way that you dont need to compile react files in `frontend`, because django directly looking for `templates/frontend/index.html` HTML file, and all the neccesary javascript is pointing to this file.
+So just directly run `python manage.py runserver` after installing neccesary modules.
+
 # Try It
 
 https://flexmoney-yoga-form.herokuapp.com/
@@ -32,10 +35,11 @@ Run the django web server.
 ```bash
 python manage.py runserver
 ```
+### OPTIONAL
 
-### [Install Node.js](https://nodejs.org/en/)
+## [Install Node.js](https://nodejs.org/en/)
 
-### Install Node Modules
+## Install Node Modules
 
 First cd into the ```frontend``` folder.
 ```bash
