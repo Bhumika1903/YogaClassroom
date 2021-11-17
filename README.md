@@ -8,8 +8,19 @@ https://flexmoney-yoga-form.herokuapp.com/
 
 ## Setup Instructions
 
-### Install Required Python Modules
+### Create Virtual Environment and Install Required Python Modules
+`cd YogaClassroom`
 
+Install venv
+`pip install virtualenv`
+
+For Creating a venv run this 
+`virtualenv -p python3 venv`
+
+Activate virtualenv 
+`venv\Scripts\activate`
+
+Install requirements
 ```bash
 pip install -r requirements.txt
 ```
@@ -34,16 +45,3 @@ Next install all dependicies.
 ```bash
 npm i
 ```
-
-### Compile the Front-End
-
-Run the production compile script
-```bash
-npm run build
-```
-or for development:
-```bash
-npm run dev
-```
-
-npm run dev
