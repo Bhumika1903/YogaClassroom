@@ -10,6 +10,12 @@ So just directly run `python manage.py runserver` after installing neccesary mod
 ## Entity-Relationship Diagram For YogaClasses
 ![E-R UCL](https://user-images.githubusercontent.com/41137189/142236305-6f978ae1-c0ca-49d4-8568-bcf8b1570de6.jpg)
 
+## DATABASE
+![DB-3](https://user-images.githubusercontent.com/41137189/142240049-faf96510-4340-4552-abc1-baaa4867319b.png)
+![DB-1](https://user-images.githubusercontent.com/41137189/142240056-b8439d2e-7e35-4c7b-99eb-8fce169e7ae3.png)
+![DB-2](https://user-images.githubusercontent.com/41137189/142240059-7e8eabf1-470c-4880-9256-e8478832bb17.png)
+
+
 # Try It
 
 https://flexmoney-yoga-form.herokuapp.com/
