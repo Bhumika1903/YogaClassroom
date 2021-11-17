@@ -5,6 +5,9 @@ A Django React Application
 # This application is made in such a way that you dont need to compile react files in `frontend`, because django directly looking for `templates/frontend/index.html` HTML file, and all the neccesary javascript is pointing to this file.
 So just directly run `python manage.py runserver` after installing neccesary modules.
 
+## Entity Relationship Diagram For YogaClasses
+![E-R UCL](https://user-images.githubusercontent.com/41137189/142236305-6f978ae1-c0ca-49d4-8568-bcf8b1570de6.jpg)
+
 # Try It
 
 https://flexmoney-yoga-form.herokuapp.com/
