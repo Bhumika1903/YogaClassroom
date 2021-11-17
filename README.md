@@ -2,7 +2,7 @@
 
 A Django React Application 
 
-# This application is made in such a way that you dont need to compile react files in `frontend`, because django directly looking for `templates/frontend/index.html` HTML file, and all the neccesary javascript is pointing to this file.
+# This application is made in such a way that you dont need to compile react files in `frontend`, because django directly looking for the main `templates/frontend/index.html` HTML file, and all the neccesary javascript is pointing to this file.
 So just directly run `python manage.py runserver` after installing neccesary modules.
 
 ## Entity Relationship Diagram For YogaClasses
